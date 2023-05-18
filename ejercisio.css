@@ -1,0 +1,30 @@
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 191, 255);
+}
+
+.Centro {
+    margin: 30px;
+    padding: 20px;
+    width: 400px;
+    height: 200px;
+    background-color: rgb(168, 11, 37);
+    position: fixed;
+
+}
+
+.Afuera {
+  background-color: rgb(0, 191, 255);
+  width: 500px;
+  height: 300px;
+  position: fixed;
+}
+
+.Centrada2 {
+ background-color: rgb(145, 145, 234);
+ width: 400px;
+ height: 200px;
+}
+
